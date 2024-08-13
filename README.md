@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a dedicated Computer Science student, <br>specializing in Artificial Intelligence and Machine Learning<br><br>🔭 I’m currently working on : Real-time DBMS project<br>🌱 I’m currently learning : Cyber Security and Cloud<br>💬 Ask me about : Python Programming
+I am a dedicated Computer Science student, <br>specializing in Artificial Intelligence and Machine Learning<br><br>🔭 I’m currently working on : Real-time ML project<br>💬 Ask me about : Python Programming
 
 
 ## 🌐 Socials:
